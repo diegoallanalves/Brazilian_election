@@ -2,7 +2,7 @@
 
 Twitter analysis on Bolsonaro and Lula - Date February 2022
 
-The purpose of this analysis is to find out the public feeling regarding the two possible Brazilian presidents election winners in 2022. 
+The purpose of this analysis is to find out the public feeling regarding the two possible Brazilian presidents winners in 2022. 
 
 The most popular Tweet: 
 "Já fiz mil críticas a Bolsonaro, mas 1) a relação Brasil-Rússia foi prioridade do Brasil nas últimas duas décadas (vejam o BRICS) 2) FHC, Lula, Dilma e Temer tb visitaram Putin, com quem tinham boa relação 3) Bolsonaro não apoiou em nenhum momento uma invasão da Rússia à Ucrânia" Total of likes: 20217 likes
